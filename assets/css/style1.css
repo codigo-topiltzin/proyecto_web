@@ -1,62 +1,62 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: rgba(255,88,51,0.7);
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgba(10,134,104,1);
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el color de la letra del titulo*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    font-family: "Oswald", Arial, Sans-Serif;
+    color: rgba(230,227,21,1);
+    font-size: 36px;
 }
 /*Cambia el color de fondo de los articulos*/
 .section__article{
-    background-color: white;
+    background-color: rgba(165,193,200,1);
 }
 /*Cambia el tipo de letra del titulo del articulo a Montserrat*/
 /*Cambia el color de la letra del titulo del articulo*/
 /*Cambia el tamaño de la letra del titulo del articulo 24px*/
 .article__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: black;
-    font-size: 18px;
+    font-family: "Monserrat", Arial, Sans-Serif;
+    color: rgba(90,6,184,1);
+    font-size: 24px;
 }
 /*Cambia el tipo de letra del texto del articulo a Roboto*/
 /*Cambia el color de la letra del texto del articulo*/
 /*Cambia el tamaño de la letra del texto del articulo 18*/
 .article__text{
-    font-family: "Sans Serif",  Arial, Sans-Serif;
-    color: black;
-    font-size: 14px;
+    font-family: "Roboto",  Arial, Sans-Serif;
+    color: blue;
+    font-size: 18px;
 }
 /*Cambia el tipo de letra del texto del articulo a Josefin Sans*/
 /*Cambia el color de remarcado del texto*/
 .article__span{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    background-color: yellow;
+    font-family: "Josefin Sans", Arial, Sans-Serif;
+    background-color: rgba(0,252,69,1);
 }
 /*Cambia el tipo de letra del texto del articulo a Smooch Sans*/
 /*Cambia el color del hipervinculo*/
 .article__link{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: red;
+    font-family: "Smooch Sans", Arial, Sans-Serif;
+    color: yellow;
 }
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
-    text-align: right;
+    background-color: rgba(10,134,104,1);
+    text-align: center;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
 /*Cambia el color de la letra del pie de pagina*/
 /*Cambia el tamaño de la letra del pie de pagina a 30px*/
 .paragraph__text{
-    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-family: "Monserrat", Arial, Sans-Serif;
     color: white;
-    font-size: 18px;
+    font-size: 30px;
 }
