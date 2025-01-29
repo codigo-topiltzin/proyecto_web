@@ -21,3 +21,7 @@ Las imagenes de las galerias deben de nombrarse todas imagen1, imagen2, imagen3 
 `git tag -a v1.0 -m "change size"`
 
 `git tag -a v1.0 -m "change font"`
+
+## Nueva rama templates
+
+Se crearon 2 archivos para la rama templates desde GitHub
