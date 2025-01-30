@@ -25,3 +25,7 @@ Las imagenes de las galerias deben de nombrarse todas imagen1, imagen2, imagen3 
 ## Nueva rama templates
 
 Se crearon 2 archivos para la rama templates desde GitHub
+
+## Nueva rama templates
+
+Crea los archivos "galery_store.html" y "galery_smc.html"
