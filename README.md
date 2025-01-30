@@ -22,10 +22,11 @@ Las imagenes de las galerias deben de nombrarse todas imagen1, imagen2, imagen3 
 
 `git tag -a v1.0 -m "change font"`
 
+## Nueva rama estilos 
+
+Modificar los archivos style.css y galery.css
+
 ## Nueva rama templates
 
-Se crearon 2 archivos para la rama templates desde GitHub
+Crea los archivos "galery_store.html" y "galery_smc.html" desde GitHub
 
-## Nueva rama templates
-
-Crea los archivos "galery_store.html" y "galery_smc.html"
